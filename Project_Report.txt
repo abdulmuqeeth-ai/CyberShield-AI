@@ -1,0 +1,29 @@
+CYBERSHIELD AI - PROJECT REPORT
+================================
+
+What I Built:
+A cybersecurity tool that detects:
+1. Phishing emails
+2. Dangerous URLs  
+3. Hacker attacks in system logs
+
+How It Works:
+- Checks emails for suspicious words
+- Analyzes URLs for dangerous patterns
+- Counts failed login attempts to detect attacks
+
+Why It's Important:
+- Helps protect people from online scams
+- Shows practical cybersecurity skills
+- Can be expanded to real-world use
+
+Technical Details:
+- Built with Python
+- Uses pattern matching for detection
+- No external tools needed
+
+Project Link:
+https://github.com/abdulmuqeeth-ai/CyberShield-AI
+
+Created by: Abdul Mqueeth
+Date: June 16, 2026
